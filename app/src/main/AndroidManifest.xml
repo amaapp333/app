@@ -12,7 +12,7 @@
         tools:ignore="GoogleAppIndexingWarning">
         <activity
             android:configChanges="orientation|screenSize"
-            android:name="com.newandromo.dev1903415.app2604692.MainActivity"
+            android:name="com.newandromo.dev1903415.app2604711.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
